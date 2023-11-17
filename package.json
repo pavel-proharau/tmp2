@@ -1,5 +1,9 @@
 {
   "name": "angular-basic",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
